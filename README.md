@@ -13,4 +13,4 @@ Key Features:
 
 Whether you're a content creator looking to repurpose your videos or a viewer seeking quick insights, our YouTube Video Transcribe Summarizer LLM App with Google Gemini Pro and Streamlit is the ultimate solution. Join us at the forefront of language technology and revolutionize the way you interact with video content! 💬🚀
 
-website link:- https://ytvideoanalyzer01.streamlit.app/
+website link:- https://ai-yt-video-summarizer-sumit.streamlit.app/
