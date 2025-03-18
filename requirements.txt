@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain_google_genai
+plotly
+pandas
+fpdf
+youtube_transcript_api
+google-generativeai
+python-dotenv
+pathlib
